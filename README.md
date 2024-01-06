@@ -5,7 +5,7 @@ A sleek and modern landing website template to showcase your project, portfolio,
 
 ## Demo
 
-file:///F:/Codsoft%20internship/Task2/Landing%20Page/index.html
+[file:///F:/Codsoft%20internship/Task2/Landing%20Page/index.html](#) - Insert a link to the live demo if available.
 
 ## Features
 
@@ -16,8 +16,8 @@ file:///F:/Codsoft%20internship/Task2/Landing%20Page/index.html
 
 ## Screenshots
 
-Insert screenshots or GIFs showcasing different sections or features of your landing website.
-
+![image](https://github.com/Khushbu-Pasi/Codsoft_02/assets/154493691/b579592c-9ae2-4f46-9cff-f1eeca72fd83)
+![image](https://github.com/Khushbu-Pasi/Codsoft_02/assets/154493691/95eb5c8c-d1fc-413f-9306-7126631eb09f)
 ## Getting Started
 
 These instructions will help you set up and run the landing website locally on your machine.
@@ -41,8 +41,7 @@ These instructions will help you set up and run the landing website locally on y
 1. Edit the content in the HTML files to match your project or business details.
 2. Customize styles in the `style.css` file to fit your branding.
 3. Modify the JavaScript files (`script.js`) for additional interactivity if needed.
-![image](https://github.com/Khushbu-Pasi/Codsoft_02/assets/154493691/b579592c-9ae2-4f46-9cff-f1eeca72fd83)
-![image](https://github.com/Khushbu-Pasi/Codsoft_02/assets/154493691/95eb5c8c-d1fc-413f-9306-7126631eb09f)
+
 
 
 
