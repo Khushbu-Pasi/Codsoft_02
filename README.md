@@ -31,7 +31,7 @@ These instructions will help you set up and run the landing website locally on y
 1. Clone the repository:
 
     ```bash
-   gh repo clone Khushbu-Pasi/Codsoft_02
+    https://github.com/Khushbu-Pasi/Codsoft_02.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
